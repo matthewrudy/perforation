@@ -1,0 +1,5 @@
+nbproject/
+bin/nokogiri
+vendor/gems/*
+!vendor/gems/cache/
+
